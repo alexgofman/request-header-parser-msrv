@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/alexgofman/request-header-parser-msrv/issues"
   },
-  "homepage": "https://github.com/alexgofman/request-header-parser-msrv#readme"
+  "homepage": "https://github.com/alexgofman/request-header-parser-msrv#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
 }
