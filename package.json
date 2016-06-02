@@ -1,0 +1,20 @@
+{
+  "name": "req_header_parser",
+  "version": "1.0.0",
+  "description": "request header parser freecodecamp microservice API",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexgofman/request-header-parser-msrv.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexgofman/request-header-parser-msrv/issues"
+  },
+  "homepage": "https://github.com/alexgofman/request-header-parser-msrv#readme"
+}
